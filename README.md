@@ -1,2 +1,3 @@
 # camera-app
-trying camera and whatsApp integration with webpage
+Added more documentation
+Trying camera and whatsApp integration with webpage
